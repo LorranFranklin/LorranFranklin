@@ -1,5 +1,5 @@
 # 👨🏾‍💻 Franklin Lorran
-Apaixonado por tecnologia, moro em Barra do Corda-MA, estudante de **Engenharia de Software**, focado em Desenvolvimento WEB, estou cursando o **Potência Tech Ifood - Programação do Zero** na [**DIO**](https://web.dio.me)
+Apaixonado por tecnologia, moro em Barra do Corda-MA, estudante de **Engenharia de Software**, focado em Desenvolvimento WEB.
 
 ### 👉🏻 Conecte-se comigo
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:lorranfranklin.dev@gmail.com)
