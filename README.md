@@ -20,5 +20,4 @@ Apaixonado por tecnologia, moro em Barra do Corda-MA, estudante de **Engenharia 
   <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFF000">
   <img aling="center" alt="Git" src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc">
   <img aling="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/">
-  <img aling="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
